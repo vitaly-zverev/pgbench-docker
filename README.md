@@ -1,7 +1,6 @@
 # pgbench-docker
 
-[![docker build](https://img.shields.io/docker/cloud/build/xridge/pgbench.svg)](https://hub.docker.com/r/xridge/pgbench)
-[![docker pulls](https://img.shields.io/docker/pulls/xridge/pgbench.svg)](https://hub.docker.com/r/xridge/pgbench)
+[![docker pulls](https://img.shields.io/docker/pulls/vzverev/pgbench.svg)](https://hub.docker.com/r/vzverev/pgbench)
 [![license](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 pgbench Docker Image based on Alpine Linux.
