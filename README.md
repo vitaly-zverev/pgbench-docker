@@ -10,11 +10,11 @@ pgbench Docker Image based on Alpine Linux.
 
 Run pgbench:
 ```bash
-$ docker run xridge/pgbench
-```
+$ docker run --rm vzverev/pgbench  --version
+pgbench (PostgreSQL) 15.2
 
+```
 ## License
-Copyright (c) 2019 [xridge.io](https://xridge.io)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
